@@ -1,0 +1,8 @@
+headers:
+  -glm
+  -obj loading (tinyobjloader)
+  -png loading (lodepng)
+  -shader compilation
+  -perlin noise
+  
+makefile
